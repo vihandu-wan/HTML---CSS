@@ -1,21 +1,12 @@
-body{
-    margin: 0;
-}
-.red{
-    background-color: red;
-    height: 100px;
+.padding{
+    background-color: antiquewhite;
+    margin: 50px;
+    padding: 10px;
+    text-align: justify;
+    width: 300px;
 
 }
 
-.blue{
-    margin-top: 20px;
-    background-color: blue;
-    height: 100px;
-    margin-bottom: 20px;
-
-}
-
-.green{
-    background-color: green;
-    height: 100px;
+.para{
+    width: 300px;
 }
