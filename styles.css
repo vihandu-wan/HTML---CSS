@@ -5,8 +5,20 @@
     text-align: justify;
     width: 300px;
 
+    border: 2px solid red;
+    border-radius: 20px;
+
 }
 
 .para{
     width: 300px;
+}
+
+button{
+    color: black;
+    border: 1px solid black;
+    border-radius: 30px;
+    background-color: aliceblue;
+    padding: 10px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
