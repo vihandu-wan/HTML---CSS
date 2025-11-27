@@ -1,31 +1,11 @@
-.hero{
-    color: rgb(20, 13, 4);
-    background-image: url("image/space.gif");
-    background-size: contain;
-    height: 200px;
+body{
+    /* background-color: red; */
+    color: azure;
+    text-shadow: 0px 0px 10px black;
     text-align: center;
-    font-family: "Science Gothic", sans-serif;
-    padding-bottom: 50px;
 }
 
-.btn{
-    margin-top: 30px;
-}
-
-.bro{
-    color: brown;
-    border-bottom: 2px solid white;
-}
-
-#logo{
-    width: 100px;
-}
-
-.terms{
-    display: block;
-    text-align: center;
-    font-size: small;
-    border-bottom: 1px solid black;
-    margin-left: auto;
-    margin-right: auto;
+h1{
+    margin-top: 250px;
+    font-size: 10cap;
 }
