@@ -14,3 +14,7 @@ body{
     color: brown;
     border-bottom: 2px solid white;
 }
+
+#logo{
+    width: 100px;
+}
