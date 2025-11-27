@@ -3,9 +3,14 @@ body{
     background-image: url("image/image2.jpg");
     background-size: cover;
     text-align: center;
-    
+    font-family: "Science Gothic", sans-serif;
 }
 
 .btn{
     margin-top: 30px;
+}
+
+.bro{
+    color: brown;
+    border-bottom: 2px solid white;
 }
