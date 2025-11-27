@@ -17,7 +17,7 @@
 
 
 body{
-    background-color: rgb(54, 47, 60);
+    background: linear-gradient(rgb(246, 46, 46),darkblue);
     color: aliceblue;
 
 
@@ -55,4 +55,8 @@ h2{
     border-radius: 10px;
     background-image: url("image/gift.gif");
     background-size: cover;
+}
+
+#id1:hover{
+    background-image: url("image/picture.png");
 }
