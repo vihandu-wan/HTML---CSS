@@ -13,7 +13,7 @@
     margin-left: auto;
     margin-right: auto;
     
-    height: 24px;
+    line-height: 24px;
     padding-top: 10px;
     padding-bottom: 10px;
     border: 30px #dfe1e5;
@@ -21,9 +21,11 @@
     
 }
 
+.flexbox{
+    display: flex;
+    justify-content: center;
+}
+
 button{
-    display: block;
-    width: 100px;
-    margin-left: auto;
-    margin-right: auto;
+    margin-left: 10px;
 }
