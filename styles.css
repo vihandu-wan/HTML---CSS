@@ -1,9 +1,11 @@
-body{
+.hero{
     color: rgb(20, 13, 4);
-    background-image: url("image/image2.jpg");
-    background-size: cover;
+    background-image: url("image/space.gif");
+    background-size: contain;
+    height: 200px;
     text-align: center;
     font-family: "Science Gothic", sans-serif;
+    padding-bottom: 50px;
 }
 
 .btn{
@@ -17,4 +19,13 @@ body{
 
 #logo{
     width: 100px;
+}
+
+.terms{
+    display: block;
+    text-align: center;
+    font-size: small;
+    border-bottom: 1px solid black;
+    margin-left: auto;
+    margin-right: auto;
 }
